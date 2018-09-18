@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{1D8B6BD3-E448-416A-B3FD-6A93BADBC634}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleWebApp/SampleWebApp.csproj">
+    <Files>
+      <File FileName="../../../Personal Source Code/angulardemos/angulartestappwebapi/Kubernetes.yaml" Line="1" Column="1" />
+      <File FileName="SampleWebApp/Controllers/UsersController.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/Database/UserContext.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/Database/UserContextExtensions.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/Models/User.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/AppConfiguration.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="SampleWebApp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="SampleWebApp/appsettings.Production.json" Line="1" Column="1" />
+      <File FileName="SampleWebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/Startup.cs" Line="1" Column="1" />
+      <File FileName="SampleWebApp/SampleWebApp.csproj" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Volumes/[C] Windows 10/Users/atverma/source/repos/AKS-Angular-AspnetCore-SQLServer/SampleWebApp/SampleWebApp/Startup.cs" line="27" column="1" />
+      <Breakpoint enabled="false" file="/Volumes/[C] Windows 10/Users/atverma/source/repos/AKS-Angular-AspnetCore-SQLServer/SampleWebApp/SampleWebApp/Startup.cs" line="19" column="1" />
+      <Breakpoint enabled="false" file="/Volumes/[C] Windows 10/Users/atverma/source/repos/AKS-Angular-AspnetCore-SQLServer/SampleWebApp/SampleWebApp/Startup.cs" line="45" column="1" />
+      <Breakpoint enabled="false" file="/Volumes/[C] Windows 10/Users/atverma/source/repos/AKS-Angular-AspnetCore-SQLServer/SampleWebApp/SampleWebApp/Startup.cs" line="39" column="1" />
+      <Breakpoint enabled="false" file="/Volumes/[C] Windows 10/Users/atverma/source/repos/AKS-Angular-AspnetCore-SQLServer/SampleWebApp/SampleWebApp/Startup.cs" line="37" column="1" />
+      <Breakpoint enabled="false" file="/Volumes/[C] Windows 10/Users/atverma/source/repos/AKS-Angular-AspnetCore-SQLServer/SampleWebApp/SampleWebApp/Controllers/ValuesController.cs" line="17" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/SampleWebApp/Controllers/UsersController.cs" relfile="SampleWebApp/Controllers/UsersController.cs" line="20" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/SampleWebApp/Controllers/UsersController.cs" relfile="SampleWebApp/Controllers/UsersController.cs" line="28" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/SampleWebApp/Database/UserContext.cs" relfile="SampleWebApp/Database/UserContext.cs" line="14" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Startup.cs" relfile="samplewebapp/Startup.cs" line="57" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Startup.cs" relfile="samplewebapp/Startup.cs" line="59" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Startup.cs" relfile="samplewebapp/Startup.cs" line="61" column="54" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Startup.cs" relfile="samplewebapp/Startup.cs" line="63" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Startup.cs" relfile="samplewebapp/Startup.cs" line="64" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Database/UserContext.cs" relfile="samplewebapp/Database/UserContext.cs" line="17" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Database/UserContext.cs" relfile="samplewebapp/Database/UserContext.cs" line="16" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Database/UserContext.cs" relfile="samplewebapp/Database/UserContext.cs" line="21" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Database/UserContextExtensions.cs" relfile="samplewebapp/Database/UserContextExtensions.cs" line="15" column="1" />
+      <Breakpoint enabled="false" file="/Users/atverma/Documents/GitHub/AzureDevSpaces-Angular-AspnetCore-SQLServer/samplewebapp/samplewebapp/Database/UserContextExtensions.cs" relfile="samplewebapp/Database/UserContextExtensions.cs" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
