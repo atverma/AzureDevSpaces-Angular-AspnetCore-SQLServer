@@ -1,10 +1,8 @@
 var express = require('express');
 var app = express();
-// app.use(express.static(__dirname + '/sampleangularapp'));
 app.use(express.static(__dirname + '/dist/sampleangularapp'));
 
 app.get('/', function (req, res) {
-    // res.sendFile(__dirname + '/sampleangularapp/index.html');
     res.sendFile(__dirname + '/dist/sampleangularapp/index.html');
 });
 

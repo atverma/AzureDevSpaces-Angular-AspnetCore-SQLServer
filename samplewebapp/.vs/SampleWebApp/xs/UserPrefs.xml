@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{1D8B6BD3-E448-416A-B3FD-6A93BADBC634}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleWebApp/SampleWebApp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleWebApp/charts/samplewebapp/values.yaml">
     <Files>
       <File FileName="../../../Personal Source Code/angulardemos/angulartestappwebapi/Kubernetes.yaml" Line="1" Column="1" />
       <File FileName="SampleWebApp/Controllers/UsersController.cs" Line="1" Column="1" />
@@ -9,10 +9,11 @@
       <File FileName="SampleWebApp/AppConfiguration.cs" Line="1" Column="1" />
       <File FileName="SampleWebApp/appsettings.json" Line="1" Column="1" />
       <File FileName="SampleWebApp/appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="SampleWebApp/appsettings.Production.json" Line="1" Column="1" />
       <File FileName="SampleWebApp/Program.cs" Line="1" Column="1" />
       <File FileName="SampleWebApp/Startup.cs" Line="1" Column="1" />
       <File FileName="SampleWebApp/SampleWebApp.csproj" Line="25" Column="1" />
+      <File FileName="SampleWebApp/azds.yaml" Line="1" Column="1" />
+      <File FileName="SampleWebApp/charts/samplewebapp/values.yaml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

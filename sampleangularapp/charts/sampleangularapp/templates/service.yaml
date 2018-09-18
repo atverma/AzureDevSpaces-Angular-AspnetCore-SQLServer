@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ template "sampleangularapp.fullname" . }}
+  labels:
+    app: {{ template "sampleangularapp.name" . }}
+    chart: {{ template "sampleangularapp.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+  selector:
+    app: {{ template "sampleangularapp.name" . }}
+    release: {{ .Release.Name }}
