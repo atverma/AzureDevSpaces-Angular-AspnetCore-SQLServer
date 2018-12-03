@@ -5,4 +5,4 @@ With Azure Dev Spaces, you can develop on Windows, Mac, or Linux using familiar 
 
 In this article, I will share the steps needed to deploy sample application I created in Angular and ASP.net Core Web API using Azure Dev Spaces. At time of writing this article Azure Dev Spaces is in preview and is isn't available in all regions.
 
-You can read further details at https://blogs.msdn.microsoft.com/atverma/2018/09/18/azure-dev-spaces-deploying-angular-and-asp-net-core-app-to-azure-kubernetes-service-aks/
+You can read further details at https://www.appdevmusings.com/azure-dev-spaces-deploying-angular-and-asp-net-core-app-to-azure-kubernetes-service-aks/
